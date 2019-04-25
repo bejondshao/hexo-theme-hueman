@@ -4,7 +4,7 @@ menu:
   Categories:
   celing: http://bejond.org
   About: /about/index.html
-  Resume: /resume.html
+  #Resume: /resume.html
 
 # Customize
 customize:
